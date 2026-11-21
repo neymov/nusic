@@ -1,5 +1,8 @@
 # nusic
-
+<p align="center">
+  <img src="pohui.png" width="49%">
+  <img src="pohui2.png" width="49%">
+</p>
 Install "nusic.zip"
 A customizable, free-form music dashboard for Windows. Arrange widgets anywhere on the screen, put photos on cards and the background, and apply effects. nusic shows whatever is playing on your PC (Firefox, Chrome, Spotify, any player) with real audio visualization, and can also play local files.
 
